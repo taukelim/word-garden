@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/word-garden/static/css/main.0ef1ee2a.css",
-    "main.js": "/word-garden/static/js/main.ac4da772.js",
+    "main.js": "/word-garden/static/js/main.04569743.js",
     "index.html": "/word-garden/index.html",
     "main.0ef1ee2a.css.map": "/word-garden/static/css/main.0ef1ee2a.css.map",
-    "main.ac4da772.js.map": "/word-garden/static/js/main.ac4da772.js.map"
+    "main.04569743.js.map": "/word-garden/static/js/main.04569743.js.map"
   },
   "entrypoints": [
     "static/css/main.0ef1ee2a.css",
-    "static/js/main.ac4da772.js"
+    "static/js/main.04569743.js"
   ]
 }
